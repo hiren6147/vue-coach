@@ -11,7 +11,7 @@
         <!-- <li v-for="coach in filteredCoaches" :key="coach.id">
           {{ coach.firstName }}
         </li> -->
-        <coach-item v-for="coach "></coach-item>
+        <coach-item v-for=" "></coach-item>
       </ul>
       <h3 v-else>NO COACHES FOUND.</h3>
   </section>
